@@ -9,7 +9,7 @@
 - Described Azure Data Lake Storage Gen2's role in analytical processing stages.
 - Discussed common use cases of Azure Data Lake Storage Gen2 in analytical workloads.
 - Completed a Knowledge check
-- Started working on a Azure Synapse Analytics.
+- Started working on Azure Synapse Analytics.
 
 ## May 10, 2024
 - Identified the business problems that Azure Synapse Analytics addresses.
