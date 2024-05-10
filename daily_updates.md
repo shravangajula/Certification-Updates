@@ -19,4 +19,7 @@
 - Provisioned an Azure Synapse Analytics workspace using the provided script.
 - Utilized Azure Synapse Studio for core data analytics tasks, including data integration, warehousing, and big data analytics, using SQL queries and notebooks.
 - Knowledge check completed
+- Explored Azure Synapse serverless SQL pool capabilities and use cases.
+- Learned about Serverless SQL pools in Azure Synapse Analytics: Described Serverless SQL pool as on-demand SQL query processing primarily for data lake operations. Compared Dedicated SQL pool for enterprise-scale data warehousing.
+- Benefits of Serverless SQL pool: Provides a pay-per-query endpoint for querying data in the data lake. Offers flexibility and cost-effectiveness for ad-hoc querying and data exploration.
 ...
