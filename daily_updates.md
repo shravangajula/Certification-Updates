@@ -22,4 +22,8 @@
 - Explored Azure Synapse serverless SQL pool capabilities and use cases.
 - Learned about Serverless SQL pools in Azure Synapse Analytics: Described Serverless SQL pool as on-demand SQL query processing primarily for data lake operations. Compared Dedicated SQL pool for enterprise-scale data warehousing.
 - Benefits of Serverless SQL pool: Provides a pay-per-query endpoint for querying data in the data lake. Offers flexibility and cost-effectiveness for ad-hoc querying and data exploration.
+
+## May 11, 2024
+- Explored querying files using a serverless SQL pool in Azure Synapse Analytics.
+- Learned to create external database objects for enhanced data management and analysis.
 ...
