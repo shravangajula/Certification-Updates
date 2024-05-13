@@ -36,6 +36,10 @@
 - Learned how transformed data is persisted in files in the data lake and represented as a relational table, enabling SQL-based interactions in the serverless SQL database or directly in the file data lake.
 - Practiced encapsulating CETAS statements in stored procedures and incorporating data transformation procedures into pipelines for efficient data processing workflows.
 - Knowledge check completed
+- Explored the concept of a lake database, combining the benefits of a relational schema and query interface with the flexibility of file storage in a data lake environment.
+- Learned about the key concepts and components of lake databases within Azure Synapse Analytics.
+- Described database templates available in Azure Synapse Analytics for streamlining database creation and management.
+- Practiced creating a lake database, leveraging its capabilities for structured data storage and querying in a data lake context.
 - 
 
 ...
