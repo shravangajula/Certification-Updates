@@ -26,4 +26,10 @@
 ## May 11, 2024
 - Explored querying files using a serverless SQL pool in Azure Synapse Analytics.
 - Learned to create external database objects for enhanced data management and analysis.
+
+## May 13, 2024
+- Explored the capabilities of Serverless SQL pools in Azure Synapse Analytics, enabling easy querying of files in the data lake.
+- Learned to query various file formats such as CSV, JSON, and Parquet using a serverless SQL pool.
+- Practiced creating external database objects to provide a relational abstraction layer over raw files in Azure Synapse Analytics.
+- Knowledge check completed
 ...
