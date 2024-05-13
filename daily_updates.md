@@ -32,4 +32,10 @@
 - Learned to query various file formats such as CSV, JSON, and Parquet using a serverless SQL pool.
 - Practiced creating external database objects to provide a relational abstraction layer over raw files in Azure Synapse Analytics.
 - Knowledge check completed
+- Explored using the CREATE EXTERNAL TABLE AS SELECT (CETAS) statement in Azure Synapse serverless SQL pool to transform data within data ingestion pipelines or ETL processes.
+- Learned how transformed data is persisted in files in the data lake and represented as a relational table, enabling SQL-based interactions in the serverless SQL database or directly in the file data lake.
+- Practiced encapsulating CETAS statements in stored procedures and incorporating data transformation procedures into pipelines for efficient data processing workflows.
+- Knowledge check completed
+- 
+
 ...
