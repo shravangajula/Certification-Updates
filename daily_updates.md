@@ -40,6 +40,6 @@
 - Learned about the key concepts and components of lake databases within Azure Synapse Analytics.
 - Described database templates available in Azure Synapse Analytics for streamlining database creation and management.
 - Practiced creating a lake database, leveraging its capabilities for structured data storage and querying in a data lake context.
-- udemy registration done
+- Udemy registration completed with instructor Alan Rodrigues
 
 ...
