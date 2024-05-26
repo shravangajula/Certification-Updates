@@ -41,5 +41,6 @@
 - Described database templates available in Azure Synapse Analytics for streamlining database creation and management.
 - Practiced creating a lake database, leveraging its capabilities for structured data storage and querying in a data lake context.
 - Udemy registration completed with instructor Alan Rodrigues
+- Covered section 1 on  Introduction to Cloud Computing and Azure storage accounts
 
 ...
