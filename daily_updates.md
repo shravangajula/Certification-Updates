@@ -43,4 +43,72 @@
 - Udemy registration completed with instructor Alan Rodrigues
 - Covered section 1 on  Introduction to Cloud Computing and Azure storage accounts
 
+
+**##June 4th, 2024**
+**- Completed section 1**
+1. IMPORTANT - How we are going to approach the exam objectives
+2min
+Play
+2. Introduction to Cloud Computing
+2min
+Play
+3. Azure and the Azure Free Account
+4min
+Play
+4. Creating an Azure Free Account
+4min
+Play
+5. Quick tour of the Azure Portal
+5min
+Play
+6. Quick note - Security Defaults
+2min
+Start
+7. PDF Resources Download
+
+**- Completed section 2**
+8. Understanding data
+3min
+Play
+9. Example of data storage
+6min
+Start
+10. NOTE - Installing Visual Studio 2022
+1min
+Play
+11. It's time to use the cloud
+2min
+Play
+12. Lab - Azure Storage accounts
+9min
+Play
+13. Lab - Azure SQL databases
+13min
+Play
+14. Lab - Application connecting to Azure Storage and SQL database
+4min
+Play
+15. Thoughts on Udemy storing data
+3min
+Play
+16. Azure Data Lake Gen-2 storage accounts
+3min
+Play
+17. Lab - Creating an Azure Data Lake Gen-2 storage account
+2min
+Play
+18. Different file formats
+6min
+Play
+19. Lab - Uploading data to Azure Data Lake Gen2
+4min
+Play
+20. Using PowerBI to view your data
+6min
+Start
+21. Note - Installing PowerBI
+1min
+Play
+22. Note on Costing
+
 ...
