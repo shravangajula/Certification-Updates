@@ -67,6 +67,7 @@ Start
 7. PDF Resources Download
 
 **- Completed section 2**
+
 8. Understanding data
 3min
 Play
@@ -112,6 +113,7 @@ Play
 22. Note on Costing
 
 **- Completed section 3**
+
 23. Code for this section
 1min
 Play
