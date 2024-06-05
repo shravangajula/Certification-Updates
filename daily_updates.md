@@ -111,4 +111,46 @@ Start
 Play
 22. Note on Costing
 
+**- Completed section 3**
+23. Code for this section
+1min
+Play
+24. Section Introduction
+1min
+Play
+25. The internals of a database engine
+3min
+Play
+26. Lab - Setting up a new Azure SQL database
+3min
+Play
+27. Lab - Setting up SQL Server Management Studio
+3min
+Play
+28. Lab - T-SQL - SELECT clause
+3min
+Play
+29. Lab - T-SQL - WHERE clause
+2min
+Play
+30. Lab - T-SQL - ORDER BY clause
+2min
+Play
+31. Lab - T-SQL - Aggregate Functions
+3min
+Play
+32. Lab - T-SQL - GROUP BY clause
+3min
+Play
+33. Lab - T-SQL - HAVING clause
+1min
+Play
+34. Quick Review on Primary and Foreign Keys
+4min
+Play
+35. Lab - T-SQL - Creating Tables with Keys
+5min
+Play
+36. Lab - T-SQL - Table Joins
+4min
 ...
