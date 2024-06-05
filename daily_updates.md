@@ -152,5 +152,4 @@ Play
 5min
 Play
 36. Lab - T-SQL - Table Joins
-4min
 ...
