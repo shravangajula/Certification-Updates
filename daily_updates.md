@@ -156,6 +156,7 @@ Play
 36. Lab - T-SQL - Table Joins
 
 **- Completed section 3** - Desing and implement data storage - Azure Synapse Analytics
+
 37. Code for this section
 1min
 Play
