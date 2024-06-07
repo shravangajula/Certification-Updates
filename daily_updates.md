@@ -45,7 +45,7 @@
 
 
 **##June 4th, 2024**
-**- Completed section 1**
+**- Completed section 1** - Introduction
 1. IMPORTANT - How we are going to approach the exam objectives
 2min
 Play
@@ -66,7 +66,7 @@ Play
 Start
 7. PDF Resources Download
 
-**- Completed section 2**
+**- Completed section 2** - Design and implement data storage basics
 
 8. Understanding data
 3min
@@ -112,7 +112,7 @@ Start
 Play
 22. Note on Costing
 
-**- Completed section 3**
+**- Completed section 3** - Design and implement data storage overview and transact SQL
 
 23. Code for this section
 1min
