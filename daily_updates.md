@@ -154,4 +154,48 @@ Play
 5min
 Play
 36. Lab - T-SQL - Table Joins
+
+**- Completed section 3** - Desing and implement data storage - Azure Synapse Analytics
+37. Code for this section
+1min
+Play
+38. Section Introduction
+1min
+Play
+39. The pre-requisite resources we require
+5min
+Play
+40. What have we seen so far
+3min
+Play
+41. A data warehouse
+7min
+Play
+42. Welcome to Azure Synapse Analytics
+1min
+Play
+43. Lab - Let's create a Azure Synapse workspace
+4min
+Play
+44. Azure Synapse - Compute options
+7min
+Play
+45. Let's open up some data
+9min
+Play
+46. Lab - Using External tables - CSV - Part 1
+12min
+Play
+47. Lab - Using External tables - CSV - Part 2
+8min
+Play
+48. Lab - External Tables - Parquet file
+17min
+Play
+49. Lab - External Tables - Multiple Parquet files
+4min
+Play
+50. Lab - OPENROWSET
+6min
+
 ...
