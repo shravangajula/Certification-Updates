@@ -201,9 +201,6 @@ Play
 
 **- Completed section 3** - Desing and implement data storage - Azure Synapse Analytics
 
-50. Lab - OPENROWSET
-6min
-Play
 51. Lab - Creating a SQL pool
 5min
 Play
