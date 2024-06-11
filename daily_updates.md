@@ -201,7 +201,6 @@ Play
 
 **- Completed section 3** - Desing and implement data storage - Azure Synapse Analytics
 
-Start
 37. Code for this section
 1min
 Play
